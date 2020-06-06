@@ -1,0 +1,22 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+@import "~vue-snotify/styles/material";
+
+.navbar-laravel {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.name-tittle {
+  -webkit-box-shadow: inset 0px 0px 14px 0px #20201ce0;
+  -moz-box-shadow: inset 0px 0px 16px 0px #20201ce0;
+  box-shadow: inset 0px 0px 10px 0px #383a3e;
+  background: content-box;
+}
